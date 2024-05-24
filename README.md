@@ -25,4 +25,8 @@ Professional Java Microservice Developer with nearly 7 years of experience in th
 
 ---
 
+![Inderjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=inderjeet5533&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inderjeet5533&layout=donut)](https://github.com/inderjeet5533/github-readme-stats)
+
+---
+
 Feel free to reach out via [email](mailto:inderjeetsingh5533@gmail.com) or connect on [GitHub](https://github.com/inderjeet5533).
