@@ -1,6 +1,6 @@
 # Inderjeet Singh
 
-**Java Microservice Developer | React Developer**
+**Java Microservice | React Developer**
 
 📧 [inderjeetsingh5533@gmail.com](mailto:inderjeetsingh5533@gmail.com)  
 🌐 [GitHub](https://github.com/inderjeet5533) | [LinkedIn](https://www.linkedin.com/in/inderjeetsingh5533)
