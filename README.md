@@ -2,7 +2,7 @@
 
 **Java Microservice | React Developer**
 
-📧 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inderjeetsingh5533@gmail.com)  
+📧 [![Inderjeetsingh5533@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inderjeetsingh5533@gmail.com)  
 🌐 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/inderjeet5533) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inderjeetsingh5533)
 
 ---
@@ -26,7 +26,3 @@ Professional Java Microservice Developer with nearly 7 years of experience in th
 ---
 
 ![Inderjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=inderjeet5533&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inderjeet5533&layout=donut)](https://github.com/inderjeet5533/github-readme-stats)
-
----
-
-Feel free to reach out via [email](mailto:inderjeetsingh5533@gmail.com) or connect on [GitHub](https://github.com/inderjeet5533).
